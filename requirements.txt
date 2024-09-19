@@ -1,0 +1,6 @@
+parallelbar
+tqdm
+alive_progress
+halo
+questionary
+prettytable
